@@ -1,0 +1,7 @@
+/venv
+/runs
+/data/bird/images
+/data/bird/labels
+__pycache__/
+*.pyc
+yolo26n.pt
