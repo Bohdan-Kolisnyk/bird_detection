@@ -71,7 +71,7 @@ python predict_video.py --input examples/input.mp4 --output examples/output.mp4
 Для повноцінного використання репозиторію та скриптів внизу надано почерговий перелік команд для встановлення віртуального середовища,встановлення необхідних бібліотек та запуску коду:
 
 ```bash
-git clone https://github.com/Bohdan-Kolisnyk/bird_detection
+git clone https://github.com/Bohdan-Kolisnyk/bird_detection #скопіювати репозиторій
 
 # для ОС Windows:
 python -m venv venv
