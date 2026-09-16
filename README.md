@@ -73,8 +73,13 @@ python predict_video.py --input examples/input.mp4 --output examples/output.mp4
 ```bash
 git clone .....
 
+# для ОС Windows:
 python -m venv venv
-venv\Scripts\activate  # для ОС Windows
+venv\Scripts\activate  
+
+# для ОС Linux/Mac:
+python -m venv venv
+source venv/bin/activate  
 
 pip install -r requirements.txt # встановлення необхідних бібліотек
 
